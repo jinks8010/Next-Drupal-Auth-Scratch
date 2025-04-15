@@ -111,5 +111,6 @@ This guide will help you set up and configure OAuth authentication with a Drupal
     npm install
     npm run dev
     ```
+    
     Open your browser and navigate to http://localhost:3000 (or the appropriate local URL) to see your application running.
 
