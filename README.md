@@ -100,17 +100,14 @@ This guide will help you set up and configure OAuth authentication with a Drupal
         DRUPAL_CLIENT_SECRET=The Client Secret associated with your OAuth consumer.
 
 ### Step 2: Running the Project Locally
+To run your project locally, follow these steps:
+Clone the repository and navigate into the project folder:
 
-    To run your project locally, follow these steps:
-
-    Clone the repository and navigate into the project folder:
-
-    ```bash
-    git clone https://github.com/jinks8010/Next-Drupal-Auth-Scratch
-    cd Next-Drupal-Auth-Scratch
-    npm install
-    npm run dev
-    ```
-    
-    Open your browser and navigate to http://localhost:3000 (or the appropriate local URL) to see your application running.
+```bash
+git clone https://github.com/jinks8010/Next-Drupal-Auth-Scratch
+cd Next-Drupal-Auth-Scratch
+npm install
+npm run dev
+```
+Open your browser and navigate to http://localhost:3000 (or the appropriate local URL) to see your application running.
 
